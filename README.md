@@ -31,8 +31,8 @@ In addition to the core material, this repository also contains optional homewor
 To get started with the course, clone this repository to your local machine. You can then navigate to the session folders to access the course materials.
 
 ```bash
-git clone https://github.com/ejones18/python-for-data-science.git
-cd python-for-data-science
+git clone https://github.com/thinkgradient/python-for-ds.git
+cd python-for-ds
 ```
 
 ## Prerequisites
